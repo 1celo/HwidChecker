@@ -20,5 +20,5 @@ Exits the batch command prompt
 You can also use the X but !exit works while you are in the code
 
 # Credits
-Coded by me (@zomware on discord)
+@1celo
 Non-obfuscated and open source
